@@ -1,2 +1,2 @@
-# nirangu-robert-portfolio
+# ndirangu-robert-portfolio
 Personal portfolio of Nirangu Robert
